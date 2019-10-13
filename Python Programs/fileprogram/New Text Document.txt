@@ -1,0 +1,6 @@
+marks of 5 Students in three different subjects:
+60 50 80
+30 70 50
+35 77 33.5
+40.4 55.5 60
+66.1 72 49
